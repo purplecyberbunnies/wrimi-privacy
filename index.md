@@ -6,7 +6,7 @@
 **Developer:** Purple Cyber Bunnies  
 **App:** WriMi (Android)  
 **Package:** `com.purplecyberbunnies.wrimi`  
-**Contact:** [jahaziel.alvarez@proton.me](mailto:jahaziel.alvarez@proton.me)
+**Contact:** [purplecyberbunnies@gmail.com](mailto:purplecyberbunnies@gmail.com)
 
 This policy describes how WriMi handles information when you use the Android app. WriMi is a **local-first** writing tracker: your projects, word counts, goals, world-building notes, and backups are stored **on your device**, not on our servers.
 
@@ -181,5 +181,5 @@ Material changes may also be noted in release notes or the Play Store listing wh
 
 Questions about this policy or your data:
 
-**Email:** [jahaziel.alvarez@proton.me](mailto:jahaziel.alvarez@proton.me)  
+**Email:** [purplecyberbunnies@gmail.com](mailto:purplecyberbunnies@gmail.com)  
 **Developer name (Google Play):** Purple Cyber Bunnies
